@@ -18,7 +18,7 @@ django-allauth==0.53.1  # https://github.com/pennersr/django-allauth
 django-crispy-forms==2.0  # https://github.com/django-crispy-forms/django-crispy-forms
 crispy-bootstrap5==0.7  # https://github.com/django-crispy-forms/crispy-bootstrap5
 django-redis==5.2.0  # https://github.com/jazzband/django-redis
-django-cors-headers==3.14.0  # https://github.com/adamchainz/django-cors-headers
+django-cors-headers==4.5.0  # https://github.com/adamchainz/django-cors-headers
 drf-spectacular==0.26.1  # https://github.com/tfranzel/drf-spectacular
 graphene-django==3.0.0
 django-filter==22.1
