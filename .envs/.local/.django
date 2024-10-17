@@ -1,0 +1,36 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER = "yes"
+IPYTHONDIR = "/app/.ipython"
+
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL = "redis://redis:6379/0"
+
+# Celery
+# ------------------------------------------------------------------------------
+
+# Flower
+# ------------------------------------------------------------------------------
+CELERY_FLOWER_USER = "PQXfZkhmyOaCNjaRAuEtsmSLdhTqPumF"
+CELERY_FLOWER_PASSWORD = "ap3LRHjCnaVwwh1BMwaBaQEgSU05uOoKXzoXzkKgGoUy8K39A03y1teVuB8F3eFj"
+
+# django
+# ------------------------------------------------------------------------------
+API_URL_PORT = "8000"
+
+# email
+# ------------------------------------------------------------------------------
+DEFAULT_FROM_NAME = "Cashflex"
+DEFAULT_FROM_EMAIL = "admin@cashflex.com"
+LOCAL_EMAIL_HOST = "sandbox.smtp.mailtrap.io"
+LOCAL_EMAIL_PORT = "2525"
+LOCAL_EMAIL_HOST_USER = "a1e6903e4a929f"
+LOCAL_EMAIL_HOST_PASSWORD = "cabcf313e6c7f8"
+
+# CORS
+TRUSTED_CORS_ORIGINS = "http://localhost,capacitor://localhost,http://localhost:3000,http://localhost:8000"
+
+# frontend
+FRONTEND_URL = "http://localhost:5173"
+DEFAULT_FROM_NAME = "admin@cashflex.com"

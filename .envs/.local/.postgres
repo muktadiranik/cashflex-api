@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST = "postgres"
+POSTGRES_PORT = "5432"
+POSTGRES_DB = "cashflex"
+POSTGRES_USER = "frcaMxgdzUuAodIdjnJgLcKIFSkDkDzl"
+POSTGRES_PASSWORD = "aWbTYJ5oX750AV0xgM4p8y8NK2NFKkUZ7wWVxfnMLMTzopA5K3B2lavvZm96K1v3"
