@@ -21,7 +21,7 @@ django-redis==5.2.0  # https://github.com/jazzband/django-redis
 django-cors-headers==3.14.0  # https://github.com/adamchainz/django-cors-headers
 drf-spectacular==0.26.1  # https://github.com/tfranzel/drf-spectacular
 graphene-django==3.0.0
-django-filter==22.1
+django-filter==24.3
 django-graphql-jwt==0.3.4
 django-tenants==3.4.8
 pandas==2.0.0
